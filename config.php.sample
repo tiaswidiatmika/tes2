@@ -2,5 +2,6 @@
     $config = [
         'host' => 'localhost',
         'username' => 'tias',
-        'password' => 'root'
+        'password' => 'root',
+        'db' => 'test'
     ];
