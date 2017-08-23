@@ -1,4 +1,6 @@
 <?php
     $config = [
-        'host' => 'localhost'
+        'host' => 'localhost',
+        'username' => 'tias',
+        'password' => 'root'
     ];
